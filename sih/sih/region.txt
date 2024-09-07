@@ -1,0 +1,19 @@
+Start Point: (x1=70, y1=105)   Name
+End Point: (x2=423, y2=132)
+
+
+Start Point: (x1=67, y1=156)   Regiter numner
+End Point: (x2=222, y2=177)
+
+
+Start Point: (x1=68, y1=203)   Examination paper
+End Point: (x2=425, y2=247)
+
+
+Start Point: (x1=174, y1=290)    all india mark topper
+End Point: (x2=257, y2=317)
+
+Start Point: (x1=176, y1=259)   marks
+End Point: (x2=253, y2=280)
+
+
